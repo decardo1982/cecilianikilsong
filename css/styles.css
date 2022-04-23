@@ -11115,6 +11115,7 @@ blockquote {
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
+  align-items: center;
 }
 
 header.masthead {
